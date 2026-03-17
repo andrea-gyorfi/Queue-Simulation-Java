@@ -1,5 +1,7 @@
 # Queue Simulation (Java)
 
+![App Screenshot](screenshot.png)
+
 A Java application that simulates a queue management system using multithreading and synchronization. Clients are dynamically assigned to multiple servers based on different scheduling strategies to minimize waiting time and improve efficiency.
 
 ## Features
