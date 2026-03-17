@@ -1,0 +1,38 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
+  <diagram name="Page-1" id="T0bHF33PCoIbZwWlaYsJ">
+    <mxGraphModel dx="949" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eUT4jlAcBtVXkQIeLyX0-1" value="GUI" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eUT4jlAcBtVXkQIeLyX0-2" value="Model" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eUT4jlAcBtVXkQIeLyX0-3" value="Business Logic" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eUT4jlAcBtVXkQIeLyX0-4" value="" style="html=1;labelBackgroundColor=#ffffff;jettySize=auto;orthogonalLoop=1;fontSize=14;rounded=0;jumpStyle=gap;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=open;dashed=1;strokeWidth=1;entryX=0;entryY=0;entryDx=0;entryDy=47.5;entryPerimeter=0;exitX=1.025;exitY=0.586;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eUT4jlAcBtVXkQIeLyX0-1" target="eUT4jlAcBtVXkQIeLyX0-2">
+          <mxGeometry width="48" height="48" relative="1" as="geometry">
+            <mxPoint x="400" y="368" as="sourcePoint" />
+            <mxPoint x="448" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUT4jlAcBtVXkQIeLyX0-5" value="" style="html=1;labelBackgroundColor=#ffffff;jettySize=auto;orthogonalLoop=1;fontSize=14;rounded=0;jumpStyle=gap;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=open;dashed=1;strokeWidth=1;exitX=1.025;exitY=0.586;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.005;entryY=0.772;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eUT4jlAcBtVXkQIeLyX0-2">
+          <mxGeometry width="48" height="48" relative="1" as="geometry">
+            <mxPoint x="250" y="320" as="sourcePoint" />
+            <mxPoint x="420" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eUT4jlAcBtVXkQIeLyX0-7" value="" style="html=1;labelBackgroundColor=#ffffff;jettySize=auto;orthogonalLoop=1;fontSize=14;rounded=0;jumpStyle=gap;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=open;dashed=1;strokeWidth=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=40;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eUT4jlAcBtVXkQIeLyX0-1" target="eUT4jlAcBtVXkQIeLyX0-3">
+          <mxGeometry width="48" height="48" relative="1" as="geometry">
+            <mxPoint x="190" y="248" as="sourcePoint" />
+            <mxPoint x="238" y="200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
